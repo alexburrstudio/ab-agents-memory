@@ -3,7 +3,7 @@ name: AB-Agents-Memory
 description: "🧠 Long-term memory system for OpenClaw agents. Manages entities, context, and knowledge base with Obsidian integration. By AB-Agents."
 version: 1.0.1
 author: AB-Agents
-homepage: https://github.com/ab-agents/memory
+homepage: https://github.com/alexburrstudio/ab-agents-memory
 license: MIT
 tags: ["memory", "agents", "openclaw", "obsidian", "knowledge-base", "entities", "context", "ab-agents"]
 acceptLicenseTerms: true
@@ -30,7 +30,7 @@ acceptLicenseTerms: true
 clawhub install AB-Agents-Memory
 
 # Or manually
-git clone https://github.com/ab-agents/memory.git
+git clone https://github.com/alexburrstudio/ab-agents-memory.git
 cd memory
 ./setup.sh
 ```

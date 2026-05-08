@@ -27,14 +27,14 @@ AB Agents Memory is a long-term memory management system for OpenClaw agents. In
 clawhub install AB-Agents-Memory
 
 # Or manually
-git clone https://github.com/ab-agents/memory.git
+git clone https://github.com/alexburrstudio/ab-agents-memory.git
 cd memory
 ./setup.sh
 ```
 
 One-liner:
 ```bash
-git clone https://github.com/ab-agents/memory.git && cd memory && ./setup.sh
+git clone https://github.com/alexburrstudio/ab-agents-memory.git && cd memory && ./setup.sh
 ```
 
 ## Structure
@@ -219,7 +219,7 @@ If AB Agents Memory was helpful, you can support development:
 ## Links
 
 - 🌐 **Channel:** https://t.me/ab_agents
-- 🐛 **Issues:** https://github.com/ab-agents/memory/issues
+- 🐛 **Issues:** https://github.com/alexburrstudio/ab-agents-memory/issues
 - 📦 **ClawHub:** https://clawhub.com/ab-agents-memory
 
 ## License
