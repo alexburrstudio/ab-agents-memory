@@ -2,7 +2,7 @@
 
 **Long-term memory system for OpenClaw agents**
 
-*by [AB-Agents](https://t.me/ab_agents)*
+*by [AB-Agents](https://t.me/alexburr_agents)*
 
 ---
 
@@ -209,22 +209,19 @@ crontab -e
 - bash >= 4.0
 - cron
 
-## Support
+## 📢 Links
 
-If AB Agents Memory was helpful, you can support development:
-
-- 🥝 TON: `@ab_agents_ton`
-- 💳 СБП: Contact via [@ab_agents](https://t.me/ab_agents)
-
-## Links
-
-- 🌐 **Channel:** https://t.me/ab_agents
+- 🌐 **Канал AB Agents:** https://t.me/alexburr_agents
+- 👤 **Автор:** https://t.me/AlexBurrOne
 - 🐛 **Issues:** https://github.com/alexburrstudio/ab-agents-memory/issues
 - 📦 **ClawHub:** https://clawhub.com/ab-agents-memory
 
-## License
+## 💰 Support / Поддержать
 
-MIT
+Если оказалось полезно — донат приветствуется:
+
+- 🥝 **TON:** @alexburrone
+- 💳 **Т-БАНК:** https://www.tinkoff.ru/rm/r_vUjKxXYgKE.yxNpCcsGqi/wQhhR62314
 
 ---
 
