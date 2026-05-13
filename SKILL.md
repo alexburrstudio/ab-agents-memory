@@ -31,7 +31,7 @@ clawhub install AB-Agents-Memory
 
 # Or manually
 git clone https://github.com/alexburrstudio/ab-agents-memory.git
-cd memory
+cd ab-agents-memory
 ./setup.sh
 ```
 
@@ -63,21 +63,27 @@ memory/
 | `obsidian-vault/` | Ready-to-use Obsidian vault with templates |
 | `setup.sh` | Automated installation script |
 
-## Brand
-
-- **By:** [AB-Agents](https://t.me/ab_agents)
-- **Colors:** Red (#E53935) + Black 🦀
-
 ## Requirements
 
 - OpenClaw 2024+
 - bash >= 4.0
 - cron
 
-## License
+## 📢 Links
 
-MIT
+- 🌐 **Канал AB Agents:** https://t.me/alexburr_agents
+- 👤 **Автор:** https://t.me/AlexBurrOne
+- 🐛 **Issues:** https://github.com/alexburrstudio/ab-agents-memory/issues
+- 📦 **ClawHub:** https://clawhub.com/ab-agents-memory
+
+## 💰 Support / Поддержать
+
+Если оказалось полезно — донат приветствуется:
+
+- 🥝 **TON:** @alexburrone
+- 💳 **Т-БАНК:** https://www.tinkoff.ru/rm/r_vUjKxXYgKE.yxNpCcsGqi/wQhhR62314
 
 ---
 
 **AB Agents Memory** — Your second brain for OpenClaw 🦀
+*Made with 🖤 by [Alex Burr](https://t.me/AlexBurrOne)*
