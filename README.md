@@ -216,13 +216,10 @@ crontab -e
 - 🐛 **Issues:** https://github.com/alexburrstudio/ab-agents-memory/issues
 - 📦 **ClawHub:** https://clawhub.com/ab-agents-memory
 
-## 💰 Support / Поддержать
+💰 Support 
 
-Если оказалось полезно — донат приветствуется:
-
-- 🥝 **TON:** @alexburrone
-- 💳 **Т-БАНК:** https://www.tinkoff.ru/rm/r_vUjKxXYgKE.yxNpCcsGqi/wQhhR62314
-
----
+🥝 **TON: UQDHLFkZo0dJzYLm7QJr6Xx8iKvrrailZa2eXdX41dvRlyfr
+🥝 **USDT TRC20: TE1mVDUueHmhHNF57x1PZfEkAe6qgorHZc
+💳 **T-BANK: https://www.tbank.ru/cf/3CfaY0mpVIt
 
 **AB Agents Memory** — Your second brain for OpenClaw 🦀
